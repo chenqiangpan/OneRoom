@@ -2,7 +2,7 @@
     "id": "1ebbebec-6a8b-41ce-9b68-05fb80adc636",
     "modelName": "GMSprite",
     "mvc": "1.1",
-    "name": "spr_cubeBoy",
+    "name": "spr_cubeBoyIdle",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -95,7 +95,7 @@
             "visible": true
         }
     ],
-    "playbackSpeed": 5,
+    "playbackSpeed": 3,
     "playbackSpeedType": 0,
     "sepmasks": false,
     "swatchColours": null,
@@ -103,5 +103,5 @@
     "type": 0,
     "width": 64,
     "xorig": 32,
-    "yorig": 32
+    "yorig": 56
 }
