@@ -569,6 +569,44 @@
                 "resourcePath": "sprites\\spr_cubeBoyDown\\spr_cubeBoyDown.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fcd058ce-218b-4db9-a18d-b48f8a1686be",
+            "Value": {
+                "id": "b0240b07-a4ff-4e3d-8567-232959008cd6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\spr_barrel\\spr_barrel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a94c93b9-3ce7-4848-8406-73d66b174a17",
+            "Value": {
+                "id": "20e11076-9d17-4a14-8fd6-46608fbb092e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_barrel\\obj_barrel.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [

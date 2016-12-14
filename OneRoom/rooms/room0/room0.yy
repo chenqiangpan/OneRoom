@@ -10,10 +10,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "1cf6be51-afad-4986-a657-fbcc16bf2c1a",
-        "a5fa0b18-a3a5-4f5e-8421-17c00c1b8b2f",
-        "a9cb2ffa-295d-411d-830a-34038c247e9e",
-        "ae7f4f4a-74af-4197-b462-3f339bcd2883",
-        "d749cbca-10d0-4f1e-83c3-c5434e1691e5"
+        "d749cbca-10d0-4f1e-83c3-c5434e1691e5",
+        "ae392545-235a-4f5e-aacc-aad6df185ba5"
     ],
     "layers": [
         {
@@ -109,16 +107,16 @@
                     "scaleY": 1
                 },
                 {
-                    "id": "a5fa0b18-a3a5-4f5e-8421-17c00c1b8b2f",
+                    "id": "ae392545-235a-4f5e-aacc-aad6df185ba5",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_2AC00229",
-                    "x": 96,
-                    "y": 160,
+                    "name": "inst_53735885",
+                    "x": 281,
+                    "y": 356,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -126,56 +124,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_2AC00229",
-                    "objId": "f7867ade-44c6-486d-a5a8-3f5530b4e9c8",
-                    "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
-                },
-                {
-                    "id": "a9cb2ffa-295d-411d-830a-34038c247e9e",
-                    "modelName": "GMRInstance",
-                    "mvc": "1.0",
-                    "ignore": false,
-                    "inheritItemSettings": false,
-                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
-                    "m_serialiseFrozen": false,
-                    "name": "inst_5FA2CD81",
-                    "x": 288,
-                    "y": 288,
-                    "IsDnD": false,
-                    "colour": {
-                        "Value": 4294967295
-                    },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
-                    "inheritCode": false,
-                    "name_with_no_file_rename": "inst_5FA2CD81",
-                    "objId": "f7867ade-44c6-486d-a5a8-3f5530b4e9c8",
-                    "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
-                },
-                {
-                    "id": "ae7f4f4a-74af-4197-b462-3f339bcd2883",
-                    "modelName": "GMRInstance",
-                    "mvc": "1.0",
-                    "ignore": false,
-                    "inheritItemSettings": false,
-                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
-                    "m_serialiseFrozen": false,
-                    "name": "inst_5C7889DA",
-                    "x": 544,
-                    "y": 384,
-                    "IsDnD": false,
-                    "colour": {
-                        "Value": 4294967295
-                    },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
-                    "inheritCode": false,
-                    "name_with_no_file_rename": "inst_5C7889DA",
-                    "objId": "f7867ade-44c6-486d-a5a8-3f5530b4e9c8",
+                    "name_with_no_file_rename": "inst_53735885",
+                    "objId": "a94c93b9-3ce7-4848-8406-73d66b174a17",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -223,9 +173,9 @@
         "id": "db7597f5-15f5-4357-9bfc-4e5f5cb89ee2",
         "modelName": "GMRoomPhysicsSettings",
         "mvc": "1.0",
-        "PhysicsWorld": false,
+        "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 10,
+        "PhysicsWorldGravityY": 0,
         "PhysicsWorldPixToMeters": 0.1,
         "inheritPhysicsSettings": false
     },

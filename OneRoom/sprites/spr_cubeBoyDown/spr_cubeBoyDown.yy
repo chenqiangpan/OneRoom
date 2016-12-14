@@ -1,7 +1,7 @@
 {
     "id": "1637e208-6c9f-4e12-a5f0-a5bf0a4567cc",
     "modelName": "GMSprite",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "spr_cubeBoyDown",
     "For3D": false,
     "HTile": false,

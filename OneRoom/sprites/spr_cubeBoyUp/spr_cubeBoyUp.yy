@@ -1,7 +1,7 @@
 {
     "id": "cdf8712e-809a-4e65-8b21-ee3a40442aa9",
     "modelName": "GMSprite",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "spr_cubeBoyUp",
     "For3D": false,
     "HTile": false,
